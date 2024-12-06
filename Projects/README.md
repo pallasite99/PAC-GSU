@@ -1,4 +1,4 @@
-# README: Advanced Topics in Privacy and Security - Graph De-anonymization, Backdoor Poisoning, and Membership Inference
+# Advanced Topics in Privacy and Security - Graph De-anonymization, Backdoor Poisoning, and Membership Inference
 
 ## Overview
 This document provides an overview of three critical topics in privacy and security for machine learning and graph-based systems:
