@@ -96,7 +96,7 @@ Membership inference attacks determine whether a specific data point was include
 For questions or further details, please contact:  
 **Name**: Salil Dinesh Apte 
 **Email**: sapte2@student.gsu.edu  
-**LinkedIn**: !(LinkedIn_SalilApte)[https://www.linkedin.com/in/salil-apte1112/]  
+**LinkedIn**: [https://www.linkedin.com/in/salil-apte1112/]  
 
 ---
 
