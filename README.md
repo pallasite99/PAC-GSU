@@ -1,4 +1,4 @@
-# README: Privacy Aware Computing Coursework - Georgia State University
+# Privacy Aware Computing Coursework - Georgia State University
 
 ## Course Information
 **Course Title**: Privacy Aware Computing  
